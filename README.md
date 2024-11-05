@@ -1,4 +1,4 @@
-<h1 align="center">👋 Willkommen auf meinem GitHub-Profil! | Welcome to my GitHub Profile!</h1>
+<h1 align="center">👋 Willkommen auf meinem GitHub-Profil! |<br> Welcome to my GitHub Profile!</h1>
 
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C%23-blue?style=for-the-badge&logo=c-sharp" />
