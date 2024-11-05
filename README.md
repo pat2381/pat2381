@@ -8,10 +8,8 @@
     <img src="https://img.shields.io/badge/Database-SQLite%20%7C%20MS%20SQL-lightgrey?style=for-the-badge&logo=sqlite" />
 </p>
 
-<p align="center">
-![Pat's github stats](https://github-readme-stats.vercel.app/api/?username=pat2381&show_icons=true)
+![Marina's github stats](https://github-readme-stats.vercel.app/api/?username=pat2381&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pat2381&layout=compact)
-</p>
 
 ---
 
