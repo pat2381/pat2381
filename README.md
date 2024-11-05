@@ -8,6 +8,11 @@
     <img src="https://img.shields.io/badge/Database-SQLite%20%7C%20MS%20SQL-lightgrey?style=for-the-badge&logo=sqlite" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=light" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=light" alt="Top Languages"/>
+</p>
+
 ---
 
 ## 👨‍💻 Über mich | About Me
@@ -33,35 +38,35 @@ Even though I’m not a formally trained software developer, I've built up a sol
 
 ## 🔧 Projekte und Schwerpunkte | Projects and Focus Areas
 
-### Benutzerrollen- und Berechtigungsmanagement | User Roles and Permissions Management
+### 🛠 Benutzerrollen- und Berechtigungsmanagement | User Roles and Permissions Management
 **DE:**  
 Für sichere und kontrollierte Anwendungen entwickle ich robuste Berechtigungssysteme, die rollenbasierte Zugriffssteuerung ermöglichen. Dies ist besonders in WinForms- und WPF-Anwendungen nützlich, die in einer geschäftlichen Umgebung verwendet werden und spezifische Berechtigungen für verschiedene Benutzergruppen erfordern.
 
 **EN:**  
 For secure and controlled applications, I develop robust permission systems that enable role-based access control. This is especially useful in WinForms and WPF applications used in business environments, where specific permissions are required for different user groups.
 
-### Community-Tools für Arma 3 | Community Tools for Arma 3
+### 🎮 Community-Tools für Arma 3 | Community Tools for Arma 3
 **DE:**  
 In meiner Freizeit entwickle ich Tools zur Verwaltung von Spieler-Slots und zur Automatisierung von Event-Management für die Arma 3-Community. Die Anwendung nutzt **.NET** und **SQLite**, um schnelle und benutzerfreundliche Prozesse zu ermöglichen, die für Community-Verwaltungstätigkeiten optimiert sind.
 
 **EN:**  
 In my spare time, I develop tools for managing player slots and automating event management for the Arma 3 community. Using **.NET** and **SQLite**, my application enables fast and user-friendly processes optimized for community management tasks.
 
-### Webbasierte Applikationen und APIs | Web-Based Applications and APIs
+### 🌐 Webbasierte Applikationen und APIs | Web-Based Applications and APIs
 **DE:**  
 Mit **Blazor** und **ASP.NET** arbeite ich an Webanwendungen, die von effizienten Backend-APIs unterstützt werden. Die Kombination aus **Web API** und **Entity Framework** ermöglicht es mir, schnelle, robuste und skalierbare Web-Lösungen zu entwickeln, die auch für moderne Anforderungen geeignet sind.
 
 **EN:**  
 With **Blazor** and **ASP.NET**, I work on web applications supported by efficient backend APIs. Combining **Web API** and **Entity Framework** allows me to develop fast, robust, and scalable web solutions that meet modern demands.
 
-### Effiziente Datenverarbeitung und Verwaltung | Efficient Data Processing and Management
+### 📊 Effiziente Datenverarbeitung und Verwaltung | Efficient Data Processing and Management
 **DE:**  
 Ich setze auf bewährte Muster wie das **UnitOfWork-Pattern** und **Repository-Pattern**, um die Datenkonsistenz und Wartbarkeit meiner Anwendungen zu gewährleisten. Die nahtlose Integration von **MS SQL** und **SQLite** ermöglicht Flexibilität und Skalierbarkeit je nach Projektanforderungen.
 
 **EN:**  
 I use established patterns like **UnitOfWork** and **Repository** to ensure data consistency and maintainability in my applications. The seamless integration of **MS SQL** and **SQLite** provides flexibility and scalability depending on project requirements.
 
-### UI-Optimierung und Benutzererfahrung | UI Optimization and User Experience
+### 💡 UI-Optimierung und Benutzererfahrung | UI Optimization and User Experience
 **DE:**  
 Durch die Verwendung von **DevExpress**-Komponenten verbessere ich die Benutzeroberfläche und Benutzerfreundlichkeit meiner Anwendungen. Von modernen GridViews über anpassbare Pop-ups bis hin zu Toast-Notifications - ich setze auf intuitives Design und effiziente UX für eine reibungslose Interaktion.
 
@@ -112,4 +117,6 @@ Ich freue mich darauf, mit anderen Entwicklern in Kontakt zu treten und mein Wis
 I look forward to connecting with fellow developers and sharing knowledge! Feel free to check out my projects and reach out if you have any questions or suggestions.
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/your-profile"><img src="https://img.shields.io
+    <a href="https://www.linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
+    <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-lightgrey?style=for-the-badge&logo=gmail" /></a>
+</p>
