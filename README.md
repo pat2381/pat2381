@@ -12,7 +12,7 @@
 
 ## 👨‍💻 Über mich
 
-Obwohl ich kein gelernter Softwareentwickler bin, habe ich mir über Jahre hinweg eine fundierte und vielseitige Programmierkenntnis autodidaktisch aufgebaut. Meine beruflichen und privaten Projekte haben mich in verschiedene Bereiche der .NET-Entwicklung geführt. Mit einem Fokus auf **C#** und einem breiten Spektrum an .NET-Technologien entwickle ich maßgeschneiderte Lösungen, die stabil, leistungsfähig und benutzerfreundlich sind. Meine Erfahrung reicht von klassischen **WinForms**-Anwendungen bis hin zu modernen, webbasierten Technologien wie **Blazor** und **ASP.NET**.
+Obwohl ich kein gelernter Softwareentwickler bin, habe ich mir über Jahre hinweg eine fundierte und vielseitige Programmierkenntnis autodidaktisch aufgebaut. Meine beruflichen und privaten Projekte haben mich in verschiedene Bereiche der .NET-Entwicklung geführt. Mit einem Fokus auf **C#** und einem breiten Spektrum an .NET-Technologien entwickle ich maßgeschneiderte Lösungen, die stabil, leistungsfähig und benutzerfreundlich sind. Meine Erfahrung reicht von klassischen **WinForms**-Anwendungen bis hin zu modernen, webbasierten Technologien wie **WPF*, **Blazor** und **ASP.NET**.
 
 Durch kontinuierliches Lernen und die Anwendung neuer Techniken habe ich eine starke Kompetenz in der Architektur und Strukturierung von Projekten entwickelt, die auf **.NET 6, 8, und 9** basieren und sowohl **MS SQL** als auch **SQLite** als Datenbanken verwenden können. 
 
