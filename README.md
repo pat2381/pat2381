@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=light" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=light" alt="Top Languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pat2381&theme=light" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pat2381&layout=compact&theme=light" alt="Top Languages"/>
 </p>
 
 ---
