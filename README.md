@@ -12,9 +12,9 @@
 
 ## 👨‍💻 Über mich
 
-Obwohl ich kein gelernter Softwareentwickler bin, habe ich mir in meiner Freizeit eine fundierte Expertise in der Softwareentwicklung angeeignet. Mit einem starken Interesse an komplexen technischen Lösungen und der Leidenschaft, qualitativ hochwertige Anwendungen zu erstellen, habe ich mich auf **C#** und die Entwicklung im **.NET-Framework** spezialisiert. Im Laufe der Jahre konnte ich durch intensive Projekte und Herausforderungen im Bereich **WinForms**, **Web APIs** und **DevExpress-Komponenten** umfassende Kenntnisse aufbauen.
+Ich bin ein leidenschaftlicher Softwareentwickler, der sich die nötigen Fähigkeiten in der Programmierung und Anwendungsentwicklung autodidaktisch angeeignet hat. Auch wenn ich kein gelernter Softwareentwickler bin, bringe ich durch meine Projekte und Eigeninitiative eine fundierte Kompetenz in **C#** und dem **.NET Framework** mit. Ich habe mich auf **WinForms-Entwicklung** spezialisiert und arbeite intensiv mit **Entity Framework**, **DevExpress-Komponenten** und **gRPC**, um benutzerfreundliche und leistungsstarke Lösungen zu schaffen. 
 
-Meine Projekte reichen von maßgeschneiderten Desktop-Anwendungen bis hin zu API-basierten Backends und umfassen Themen wie **Benutzerrollen- und Berechtigungsmanagement**, **automatisierte Verwaltungswerkzeuge** und **dynamische Benutzeroberflächen**. Mit einem Fokus auf Konsistenz, Skalierbarkeit und Effizienz habe ich mir bewährte Ansätze zur strukturierten und wartbaren Entwicklung erarbeitet.
+Im Kern geht es mir um Effizienz, klare Strukturen und die Liebe zum Detail. Mit einer methodischen und lösungsorientierten Herangehensweise entwickle ich maßgeschneiderte Desktop- und API-Lösungen, die robust, skalierbar und auf die Bedürfnisse der Anwender zugeschnitten sind.
 
 ---
 
@@ -27,31 +27,34 @@ Meine Projekte reichen von maßgeschneiderten Desktop-Anwendungen bis hin zu API
 
 ---
 
-## 🔧 Projekte und Interessensgebiete
+## 🔧 Projekte und Schwerpunkte
 
-Hier sind einige meiner technischen Projekte und aktuellen Interessen:
+### Benutzerrollen- und Berechtigungsmanagement
+Ich entwickle umfassende Sicherheits- und Berechtigungssysteme für WinForms-Anwendungen, die den Zugang auf Basis von Benutzerrollen steuern. Dies sorgt für eine kontrollierte und sichere Umgebung für Anwendungen, die in einem professionellen Kontext eingesetzt werden.
 
-- **Benutzerrollen- und Berechtigungsverwaltung**: Integrierte Sicherheitssysteme in WinForms-Anwendungen, die kontrollierten Zugriff basierend auf Benutzerrollen ermöglichen.
-- **Arma 3 Community-Tools**: Entwicklung eines benutzerfreundlichen Verwaltungstools für Spieler-Slotting und Automatisierung für die Arma 3-Community.
-- **Dynamische UI-Optimierung**: Verwendung von DevExpress-Komponenten wie GridView und Accordion Control zur Verbesserung der Benutzeroberfläche, inkl. benutzerdefinierter Pop-ups und Toast-Notifications.
-- **Effiziente Datenverarbeitung**: Nutzung von **UnitOfWork-Patterns** in Entity Framework zur Verwaltung von Datenintegrität und Konsistenz, besonders bei verteilten Anwendungen.
+### Community-Tools für Arma 3
+Als Teil der Gaming-Community entwickle ich maßgeschneiderte Verwaltungstools, um die Spieler-Slotting- und Automatisierungsprozesse für **Arma 3** zu optimieren. Das Ziel ist es, die Organisation von Events effizient und benutzerfreundlich zu gestalten und den Verwaltungsaufwand für die Community zu minimieren.
+
+### Benutzerzentrierte UI-Optimierung
+Durch die Verwendung von **DevExpress**-Komponenten, wie GridView und Accordion Control, erstelle ich interaktive und ästhetisch ansprechende Benutzeroberflächen. Von benutzerdefinierten Pop-ups bis hin zu Toast-Notifications setze ich auf eine intuitive und ansprechende Benutzererfahrung, die sowohl einfach zu bedienen als auch flexibel anpassbar ist.
+
+### Effiziente Datenverwaltung und Konsistenz
+Ich setze auf das **UnitOfWork-Pattern** und Entity Framework, um eine konsistente und zuverlässige Datenverarbeitung sicherzustellen. Insbesondere bei synchronisierten Anwendungen mit mehreren Datenquellen lege ich Wert auf strukturiertes und konsistentes Datenmanagement.
 
 ---
 
-## 💡 Herausforderungen und Lösungsansätze
+## 💼 Kernkompetenzen & Stärken
 
-- **Flexibles UI-Management**: Entwicklung DI-kompatibler Services zur dynamischen Verwaltung von Navigation und Benutzeroberflächen in WinForms.
-- **Datenkonsistenz & Fehlerbehebung**: Sicherstellung der Datenintegrität in Entity Framework, mit Problemlösungen für häufige Fehler wie FOREIGN KEY-Beschränkungen und Performance-Optimierung bei flackernden UI-Elementen.
-- **Rate Limiting für Web APIs**: Steuerung des Anfrageaufkommens und Sicherstellung der API-Leistung ohne Implementierung von CORS.
+- **Architektur und Wartbarkeit**: Ich entwickle Anwendungen so, dass sie modular aufgebaut und leicht zu erweitern sind. Durch eine strukturierte Anwendung von Dependency Injection und Code-Patterns wie **Repository** und **Unit of Work** gewährleiste ich eine saubere Trennung von Logik und Daten.
+- **Problemlösung und Analyse**: Komplexe Herausforderungen motivieren mich dazu, kreative und fundierte Lösungsansätze zu entwickeln. Ob es um die Optimierung von Datenbankzugriffen oder die Vermeidung von FOREIGN KEY-Beschränkungen in Entity Framework geht – ich arbeite präzise, um technische Hürden effizient zu bewältigen.
+- **Automatisierung und Skalierbarkeit**: Mein Fokus liegt darauf, wiederholbare Aufgaben zu automatisieren und Systeme zu entwerfen, die mit den Anforderungen und der Datenmenge wachsen können. Insbesondere in der Entwicklung von Backend-Services und API-Architekturen setze ich auf zukunftssichere Lösungen.
 
 ---
 
 ## 🌱 Aktuelles Lernfeld
 
-Momentan fokussiere ich mich auf:
-
-- **gRPC & Code-First-Ansätze** für die Erstellung robuster und leistungsfähiger Backend-Systeme.
-- **Optimierung von DevExpress-Komponenten** und ihre effiziente Einbindung in benutzerfreundliche Anwendungen.
+- **gRPC & Code-First-Ansätze**: Derzeit vertiefe ich meine Kenntnisse in gRPC, insbesondere für hochleistungsfähige und zuverlässige Datenübertragungen. Mit Code-First-Ansätzen schaffe ich dabei flexible Backend-Systeme, die gut skalieren und sicher sind.
+- **Erweiterte DevExpress-Nutzung**: Meine Kenntnisse in DevExpress-Komponenten erweitere ich ständig, um diese optimal in komplexen UI-Umgebungen zu integrieren und die Benutzererfahrung zu verbessern.
 
 ---
 
