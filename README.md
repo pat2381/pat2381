@@ -3,58 +3,64 @@
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C%23-blue?style=for-the-badge&logo=c-sharp" />
     <img src="https://img.shields.io/badge/Framework-.NET%20Framework-blueviolet?style=for-the-badge&logo=dotnet" />
-    <img src="https://img.shields.io/badge/Platform-WinForms-blue?style=for-the-badge&logo=windows" />
+    <img src="https://img.shields.io/badge/Platform-WinForms/WPF-blue?style=for-the-badge&logo=windows" />
     <img src="https://img.shields.io/badge/Tool-DevExpress-orange?style=for-the-badge&logo=devexpress" />
-    <img src="https://img.shields.io/badge/Database-SQLite-lightgrey?style=for-the-badge&logo=sqlite" />
+    <img src="https://img.shields.io/badge/Database-SQLite%20%7C%20MS%20SQL-lightgrey?style=for-the-badge&logo=sqlite" />
 </p>
 
 ---
 
 ## 👨‍💻 Über mich
 
-Ich bin ein leidenschaftlicher Softwareentwickler, der sich die nötigen Fähigkeiten in der Programmierung und Anwendungsentwicklung autodidaktisch angeeignet hat. Auch wenn ich kein gelernter Softwareentwickler bin, bringe ich durch meine Projekte und Eigeninitiative eine fundierte Kompetenz in **C#** und dem **.NET Framework** mit. Ich habe mich auf **WinForms-Entwicklung** spezialisiert und arbeite intensiv mit **Entity Framework**, **DevExpress-Komponenten** und **gRPC**, um benutzerfreundliche und leistungsstarke Lösungen zu schaffen. 
+Obwohl ich kein gelernter Softwareentwickler bin, habe ich mir über Jahre hinweg eine fundierte und vielseitige Programmierkenntnis autodidaktisch aufgebaut. Meine beruflichen und privaten Projekte haben mich in verschiedene Bereiche der .NET-Entwicklung geführt. Mit einem Fokus auf **C#** und einem breiten Spektrum an .NET-Technologien entwickle ich maßgeschneiderte Lösungen, die stabil, leistungsfähig und benutzerfreundlich sind. Meine Erfahrung reicht von klassischen **WinForms**-Anwendungen bis hin zu modernen, webbasierten Technologien wie **Blazor** und **ASP.NET**.
 
-Im Kern geht es mir um Effizienz, klare Strukturen und die Liebe zum Detail. Mit einer methodischen und lösungsorientierten Herangehensweise entwickle ich maßgeschneiderte Desktop- und API-Lösungen, die robust, skalierbar und auf die Bedürfnisse der Anwender zugeschnitten sind.
+Durch kontinuierliches Lernen und die Anwendung neuer Techniken habe ich eine starke Kompetenz in der Architektur und Strukturierung von Projekten entwickelt, die auf **.NET 6, 8, und 9** basieren und sowohl **MS SQL** als auch **SQLite** als Datenbanken verwenden können. 
 
 ---
 
 ## 🚀 Technische Fähigkeiten
 
-- **Sprachen:** C#, SQL
-- **Frameworks & Bibliotheken:** .NET Framework, DevExpress, Entity Framework
-- **Datenbanken:** SQLite, gelegentlich SQL Server
-- **Technologien:** WinForms, Web API, gRPC, Dependency Injection
+- **Programmiersprachen:** C#, SQL
+- **Frameworks & Technologien:** .NET Framework, .NET Core, .NET 6, .NET 8, .NET 9
+- **Frontend:** WinForms, WPF, Blazor, ASP.NET
+- **Backend:** Web API, gRPC, Entity Framework, Dependency Injection
+- **Datenbanken:** SQLite, MS SQL
+- **UI-Komponenten:** DevExpress Suite für UI-Optimierungen und interaktive Benutzeroberflächen
 
 ---
 
 ## 🔧 Projekte und Schwerpunkte
 
 ### Benutzerrollen- und Berechtigungsmanagement
-Ich entwickle umfassende Sicherheits- und Berechtigungssysteme für WinForms-Anwendungen, die den Zugang auf Basis von Benutzerrollen steuern. Dies sorgt für eine kontrollierte und sichere Umgebung für Anwendungen, die in einem professionellen Kontext eingesetzt werden.
+Für sichere und kontrollierte Anwendungen entwickle ich robuste Berechtigungssysteme, die rollenbasierte Zugriffssteuerung ermöglichen. Dies ist besonders in WinForms- und WPF-Anwendungen nützlich, die in einer geschäftlichen Umgebung verwendet werden und spezifische Berechtigungen für verschiedene Benutzergruppen erfordern.
 
 ### Community-Tools für Arma 3
-Als Teil der Gaming-Community entwickle ich maßgeschneiderte Verwaltungstools, um die Spieler-Slotting- und Automatisierungsprozesse für **Arma 3** zu optimieren. Das Ziel ist es, die Organisation von Events effizient und benutzerfreundlich zu gestalten und den Verwaltungsaufwand für die Community zu minimieren.
+In meiner Freizeit entwickle ich Tools zur Verwaltung von Spieler-Slots und zur Automatisierung von Event-Management für die Arma 3-Community. Die Anwendung nutzt **.NET** und **SQLite**, um schnelle und benutzerfreundliche Prozesse zu ermöglichen, die für Community-Verwaltungstätigkeiten optimiert sind.
 
-### Benutzerzentrierte UI-Optimierung
-Durch die Verwendung von **DevExpress**-Komponenten, wie GridView und Accordion Control, erstelle ich interaktive und ästhetisch ansprechende Benutzeroberflächen. Von benutzerdefinierten Pop-ups bis hin zu Toast-Notifications setze ich auf eine intuitive und ansprechende Benutzererfahrung, die sowohl einfach zu bedienen als auch flexibel anpassbar ist.
+### Webbasierte Applikationen und APIs
+Mit **Blazor** und **ASP.NET** arbeite ich an Webanwendungen, die von effizienten Backend-APIs unterstützt werden. Die Kombination aus **Web API** und **Entity Framework** ermöglicht es mir, schnelle, robuste und skalierbare Web-Lösungen zu entwickeln, die auch für moderne Anforderungen geeignet sind.
 
-### Effiziente Datenverwaltung und Konsistenz
-Ich setze auf das **UnitOfWork-Pattern** und Entity Framework, um eine konsistente und zuverlässige Datenverarbeitung sicherzustellen. Insbesondere bei synchronisierten Anwendungen mit mehreren Datenquellen lege ich Wert auf strukturiertes und konsistentes Datenmanagement.
+### Effiziente Datenverarbeitung und Verwaltung
+Ich setze auf bewährte Muster wie das **UnitOfWork-Pattern** und **Repository-Pattern**, um die Datenkonsistenz und Wartbarkeit meiner Anwendungen zu gewährleisten. Die nahtlose Integration von **MS SQL** und **SQLite** ermöglicht Flexibilität und Skalierbarkeit je nach Projektanforderungen.
+
+### UI-Optimierung und Benutzererfahrung
+Durch die Verwendung von **DevExpress**-Komponenten verbessere ich die Benutzeroberfläche und Benutzerfreundlichkeit meiner Anwendungen. Von modernen GridViews über anpassbare Pop-ups bis hin zu Toast-Notifications - ich setze auf intuitives Design und effiziente UX für eine reibungslose Interaktion.
 
 ---
 
 ## 💼 Kernkompetenzen & Stärken
 
-- **Architektur und Wartbarkeit**: Ich entwickle Anwendungen so, dass sie modular aufgebaut und leicht zu erweitern sind. Durch eine strukturierte Anwendung von Dependency Injection und Code-Patterns wie **Repository** und **Unit of Work** gewährleiste ich eine saubere Trennung von Logik und Daten.
-- **Problemlösung und Analyse**: Komplexe Herausforderungen motivieren mich dazu, kreative und fundierte Lösungsansätze zu entwickeln. Ob es um die Optimierung von Datenbankzugriffen oder die Vermeidung von FOREIGN KEY-Beschränkungen in Entity Framework geht – ich arbeite präzise, um technische Hürden effizient zu bewältigen.
-- **Automatisierung und Skalierbarkeit**: Mein Fokus liegt darauf, wiederholbare Aufgaben zu automatisieren und Systeme zu entwerfen, die mit den Anforderungen und der Datenmenge wachsen können. Insbesondere in der Entwicklung von Backend-Services und API-Architekturen setze ich auf zukunftssichere Lösungen.
+- **Architektur und Modularität**: Ich entwickle Anwendungen mit einem klaren und modularen Aufbau, der durch **Dependency Injection** unterstützt wird und leicht erweiterbar ist. Ich bevorzuge dabei die Nutzung von Code-Patterns wie **Repository** und **Unit of Work**.
+- **Problemlösung und Analytik**: Mein Ansatz ist es, technische Hürden methodisch und effizient zu überwinden. Ich setze auf präzise Analyse, um performante Datenbankzugriffe und eine hohe Datenintegrität zu gewährleisten, auch in komplexen Szenarien.
+- **Skalierbarkeit und Automatisierung**: Ich entwickle Systeme, die auf wachsende Anforderungen ausgelegt sind und sich flexibel anpassen lassen. Besonders im Bereich der Web-API-Entwicklung lege ich Wert auf zukunftssichere Architektur und Optimierung.
 
 ---
 
 ## 🌱 Aktuelles Lernfeld
 
-- **gRPC & Code-First-Ansätze**: Derzeit vertiefe ich meine Kenntnisse in gRPC, insbesondere für hochleistungsfähige und zuverlässige Datenübertragungen. Mit Code-First-Ansätzen schaffe ich dabei flexible Backend-Systeme, die gut skalieren und sicher sind.
-- **Erweiterte DevExpress-Nutzung**: Meine Kenntnisse in DevExpress-Komponenten erweitere ich ständig, um diese optimal in komplexen UI-Umgebungen zu integrieren und die Benutzererfahrung zu verbessern.
+- **Blazor und moderne Webtechnologien**: Derzeit vertiefe ich meine Kenntnisse in Blazor und ASP.NET, um Web-Anwendungen mit modernen Benutzeroberflächen und robusten Backends zu entwickeln.
+- **gRPC für leistungsfähige Datenübertragung**: Durch die Nutzung von Code-First-Ansätzen in gRPC strebe ich an, sichere und schnelle Kommunikationskanäle für verteilte Systeme zu schaffen.
+- **.NET 6, 8 und 9**: Ich halte mich auf dem Laufenden mit den neuesten .NET-Versionen und nutze die Optimierungen und Features der aktuellen Versionen für meine Projekte.
 
 ---
 
